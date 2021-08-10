@@ -1,0 +1,38 @@
+_repo: Los-suenos-Vol-1_65999
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Quevedo, Francisco de
+    aliases:
+    - Villegas, Francisco Gomez de Quevedo y
+    - Villegas, Francisco Gómez de Quevedo y
+    - De Quevedo y Villegas, Francisco Gómez
+    - Gómez de Quevedo y Villegas, Francisco
+    birthdate: 1580
+    deathdate: 1645
+    gutenberg_agent_id: '35792'
+    url: http://www.gutenberg.org/2009/agents/35792
+    wikipedia: http://en.wikipedia.org/wiki/Francisco_de_Quevedo
+  editor:
+    agent_name: Cejador y Frauca, Julio
+    aliases:
+    - Frauca, Julio Cejador y
+    - Cejador, Julio
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '6831'
+    url: http://www.gutenberg.org/2009/agents/6831
+    wikipedia: http://es.wikipedia.org/wiki/Julio_Cejador_y_Frauca
+description: ''
+gutenberg_issued: '2021-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65999'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Los sueños - Vol. 1
+url: http://www.gutenberg.org/ebooks/65999
